@@ -12,4 +12,4 @@ Here are they:
 ## Dynamical Systems
 - [FitzHugh-Nagumo Model: Van der Pol oscilator applied to neural activity](https://github.com/ylaksl/draft_PET.py/blob/main/Modelo%20FitzHugh-Nagumo_O%20oscilador%20de%20Van%20der%20Pol%20em%20disparos%20neurais.ipynb)
 
-- On going: [SIR and SIS: Diasease propagation models visualized](https://github.com/ylaksl/draft_PET.py/blob/main/SIR_SIS_models.ipynb)
+- [SIR and SIS: Diasease propagation models visualized](https://github.com/ylaksl/draft_PET.py/blob/main/SIR_SIS_models.ipynb)
